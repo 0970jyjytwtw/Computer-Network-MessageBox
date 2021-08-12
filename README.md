@@ -11,10 +11,12 @@ MessageBox written by python3.
 二、Instructions on how to run server & clients 
 
 server: 
+
 1.用python3打開server.py 
 2. 輸入port number 
 
 client: 
+
 1.用python3打開test_client.py 
 2.輸入server的hostname和port number 
 
@@ -28,6 +30,7 @@ database是使用sqlite3這個library
 
 
 server端就只是根據client端傳來的資料，做出相對應的動作。 
+
 sign up: 
 
 1. Client端將username, password傳入server。 
