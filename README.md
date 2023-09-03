@@ -17,7 +17,7 @@ server:
 
 client: 
 
-1.用python3打開test_client.py 
+1.用python3打開client.py 
 2.輸入server的hostname和port number 
 
 
